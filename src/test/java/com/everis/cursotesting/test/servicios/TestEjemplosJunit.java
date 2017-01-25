@@ -77,7 +77,7 @@ public class TestEjemplosJunit extends TestContext{
 			Aplicacion appResponse = new Aplicacion();
 			
 			/* Parametros entrada */
-			Integer appInput = new Integer(7);
+			Integer appInput = new Integer(1);
 			
 		
 			/* Probar servicio */
