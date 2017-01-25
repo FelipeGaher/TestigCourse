@@ -53,8 +53,11 @@ public class TestEjemplosJunitMockito extends TestContext {
 
 	@Before
 	public void preparacion() {
+		
+		/* Initialize Mock Annotations */
 		MockitoAnnotations.initMocks(this);
 
+		/* Instance a new application obj*/
 		aplicacion = new Aplicacion();
 		aplicacion.setsNombreAplicacion("OAO RULES");
 		aplicacion.setsVersionAplicacion("R5");

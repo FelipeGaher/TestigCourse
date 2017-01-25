@@ -17,7 +17,8 @@ import com.everis.cursotesting.modelo.Aplicacion;
 /**
  * 
  * @author fgajardo
- *
+ * STILL WORKING ON IT
+ * PROBLEMS WITH HIBERNATE
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(
