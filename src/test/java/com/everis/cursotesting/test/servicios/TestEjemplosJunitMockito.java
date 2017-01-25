@@ -59,12 +59,11 @@ public class TestEjemplosJunitMockito extends TestContext {
 
 		/* Instance a new application obj*/
 		aplicacion = new Aplicacion();
+		/* Setting up some fields in the return Obj */
 		aplicacion.setsNombreAplicacion("OAO RULES");
 		aplicacion.setsVersionAplicacion("R5");
 		aplicacion.setsTituloVentana("Titulo");
-
-		//TEST
-		//PRUEBA MAURICIO
+		
 	}
 
 	@Test
