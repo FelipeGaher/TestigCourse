@@ -64,6 +64,7 @@ public class TestEjemplosJunitMockito extends TestContext {
 		aplicacion.setsTituloVentana("Titulo");
 
 		//TEST
+		//PRUEBA MAURICIO
 	}
 
 	@Test
