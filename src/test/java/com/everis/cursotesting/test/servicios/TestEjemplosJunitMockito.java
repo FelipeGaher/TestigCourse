@@ -63,6 +63,7 @@ public class TestEjemplosJunitMockito extends TestContext {
 		aplicacion.setsVersionAplicacion("R5");
 		aplicacion.setsTituloVentana("Titulo");
 
+		//TEST
 	}
 
 	@Test
