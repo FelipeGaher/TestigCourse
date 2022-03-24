@@ -1,4 +1,4 @@
 # CursoTesting
-Junit and Mockito example on Java
+Junit and Mockito prject for a course.
 
-Its configuration and examples in the test folder
+Configuration and examples in the test folder
